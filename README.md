@@ -1,2 +1,4 @@
-# Consumo_Energetico
-Modelamiento del uso de energías renovables y no renovables a nivel mundial
+# Consumo de energia mundial.
+El cambio climático y el uso de energías no renovables tiene un estrecha relación, un problema “moderno” que impulsa al rubro industrial a reevaluar y modernizar sus procesos productivos para que se adapten a los cambios que son necesarios impulsar. Si bien los daños al medio ambiente son muchas veces irreversibles, los programas y organizaciones ambientalistas del mundo no ceden ante los duros panoramas que enfrenta la humanidad.
+
+Para poder comprender el presente es necesario repasar nuestra historia, principalmente cuando hablamos de las potencias económicas que en ellos recae mayormente la responsabilidad ambiental del mundo, estos al tener una mayor influencia en las distintas regiones. Para esto, en el presente resumen se realizara un modelamiento del uso de energías no renovables como el petróleo (y sus derivados) y a su vez, el uso neto de energías renovables tanto a nivel mundial, como de los dos grupos económicos de la actualidad: el G7 y el Brics.
